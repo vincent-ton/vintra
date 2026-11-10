@@ -88,7 +88,7 @@ No personal records were imported, anonymized or transformed into this seed. Acc
 
 No analytics, external fonts, remote assets, network clients, account linking, document uploads, cookies, service workers or persistent browser storage are implemented. A restrictive Content Security Policy blocks network connections, workers, plugins and form transmission. Visitor text is escaped, and financial edits are validated before mutation.
 
-See the [privacy verification](docs/PRIVACY_VERIFICATION.md), [functional test report](docs/VERIFICATION.md), and [proposed deployment checklist](docs/DEPLOYMENT_REVIEW.md).
+See the [public release verification](docs/RELEASE_VERIFICATION.md), [privacy verification](docs/PRIVACY_VERIFICATION.md), [functional test report](docs/VERIFICATION.md), and [deployment setup](docs/DEPLOYMENT_REVIEW.md).
 
 ## Development approach and limits
 

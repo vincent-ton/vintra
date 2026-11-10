@@ -1,3 +1,5 @@
+Current public release results: [Release verification](RELEASE_VERIFICATION.md). The detailed Stage A record below is historical.
+
 # Stage A — implementation and verification
 
 Local preview: `http://127.0.0.1:5187/vintra/`. This is a loopback review address, not a public deployment.

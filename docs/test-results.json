@@ -1,5 +1,5 @@
 {
-  "stage": "Approved release candidate; public deployment verification pending",
+  "stage": "Public release verified",
   "financialTests": 32,
   "privacyTests": 6,
   "totalTests": 38,
@@ -21,9 +21,12 @@
   "publicRepositoryFiles": [
     "README.md"
   ],
-  "commitsCreated": 0,
-  "pushes": 0,
-  "publicDeployments": 0,
+  "commitsCreated": 3,
+  "pushes": 2,
+  "publicDeployments": 1,
   "approvalRequiredBeforePublication": false,
-  "reviewVersion": "review-2"
+  "reviewVersion": "release-1",
+  "liveUrl": "https://vincent-ton.github.io/vintra/",
+  "deploymentRun": "https://github.com/vincent-ton/vintra/actions/runs/42790483744",
+  "allPublicAssetsMatchReviewedBuild": true
 }

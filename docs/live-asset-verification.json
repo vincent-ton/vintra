@@ -1,0 +1,51 @@
+{
+  "url": "https://vincent-ton.github.io/vintra/",
+  "authentication": "none",
+  "assets": [
+    {
+      "path": ".nojekyll",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "assets/vintra-icon.svg",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "assets/vintra-mark.svg",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "src/app.mjs",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "src/data.mjs",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "src/decimal.mjs",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "src/finance.mjs",
+      "status": 200,
+      "matchesReviewedBuild": true
+    },
+    {
+      "path": "src/style.css",
+      "status": 200,
+      "matchesReviewedBuild": true
+    }
+  ]
+}
