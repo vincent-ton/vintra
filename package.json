@@ -1,0 +1,1 @@
+{"name":"vintra-fictional-demo","version":"1.0.0","private":true,"type":"module","description":"Isolated fictional financial sandbox","scripts":{"test":"node --test tests/*.test.mjs","build":"node scripts/build.mjs","preview":"python3 scripts/serve.py"},"license":"UNLICENSED"}
