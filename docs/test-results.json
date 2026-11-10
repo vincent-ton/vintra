@@ -1,0 +1,29 @@
+{
+  "stage": "Approved release candidate; public deployment verification pending",
+  "financialTests": 32,
+  "privacyTests": 6,
+  "totalTests": 38,
+  "failed": 0,
+  "syntax": "passed",
+  "build": "passed",
+  "browserQuestionsExecuted": 12,
+  "desktopViewport": 1280,
+  "phoneViewport": 403,
+  "phoneRoutes": 6,
+  "documentOverflow": false,
+  "physicalIPhone": "not tested",
+  "applicationConsoleErrorsObserved": 0,
+  "fullNetworkPacketTrace": "unavailable; source/CSP/loaded-asset checks performed",
+  "runtimeExternalConnections": "blocked by CSP; no network client/dependency",
+  "sessionIsolation": "verified in two tabs",
+  "sourceDataOrigin": "independently created fictional seed",
+  "privateAppModified": false,
+  "publicRepositoryFiles": [
+    "README.md"
+  ],
+  "commitsCreated": 0,
+  "pushes": 0,
+  "publicDeployments": 0,
+  "approvalRequiredBeforePublication": false,
+  "reviewVersion": "review-2"
+}

@@ -1,0 +1,54 @@
+{
+  "version": "review-3",
+  "basePath": "/vintra/",
+  "runtimeFiles": 9,
+  "runtimeBytes": 90253,
+  "dependencies": 0,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/vintra-icon.svg",
+      "bytes": 3645,
+      "sha256": "99d6c3030d67eacf5210228d6e8fa8caad3064dcfa4e0f0af41911bb56f5a3b1"
+    },
+    {
+      "path": "assets/vintra-mark.svg",
+      "bytes": 3589,
+      "sha256": "b6494fb7303c06c99fd0355910bbccf37d2cad1c42535b70cbf0533f4369a29c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1049,
+      "sha256": "ed34943255b5d2e606b8b6692cf5b55d92a46ed7c717098c8648a1574f7b31c6"
+    },
+    {
+      "path": "src/app.mjs",
+      "bytes": 42181,
+      "sha256": "b3b5328159e073cc117cb22d08599361093aab6ab10d8477a3b5e154847f852a"
+    },
+    {
+      "path": "src/data.mjs",
+      "bytes": 6151,
+      "sha256": "d3c45533f73308792e739446699b5ed32883aba7945b93d961758940620d4bbf"
+    },
+    {
+      "path": "src/decimal.mjs",
+      "bytes": 2190,
+      "sha256": "16cb82a5d3090e18dcfde1cb92c276a6de5ca761eea4e7440a19f52ad1a061a9"
+    },
+    {
+      "path": "src/finance.mjs",
+      "bytes": 15175,
+      "sha256": "7231d7f7023f7816099dedfd30fb7b6d0c2a53adf7d30ca2df6ba8ca27427df1"
+    },
+    {
+      "path": "src/style.css",
+      "bytes": 16273,
+      "sha256": "ec78e274addcd0da18b8d0f6254aa13ebcb6dbfb4e5e79be2e400d27b8a1e27a"
+    }
+  ]
+}
